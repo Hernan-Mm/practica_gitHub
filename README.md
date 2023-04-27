@@ -1,3 +1,2 @@
-#MARIANO
-practica_gitHub
+MARIANO
 
