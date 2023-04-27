@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # practica_gitHub
 <<<<<<< HEAD
 # Hernan
@@ -10,3 +11,7 @@ Mariano
 
 
 >>>>>>> mariano
+=======
+# practica_gitHub
+robins
+>>>>>>> robins
