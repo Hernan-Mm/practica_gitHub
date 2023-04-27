@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # practica_gitHub
 <<<<<<< HEAD
 # Hernan
@@ -15,3 +16,6 @@ Mariano
 # practica_gitHub
 robins
 >>>>>>> robins
+=======
+Jueves 27/04/23 19:29
+>>>>>>> mariano
